@@ -2,7 +2,7 @@
   "name": "astro-components",
   "description": "A curated collection of beautiful, copy-paste components for Astro. Built by and for the community.",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "license": "MIT",
   "author": "Jesús Cedeño Vélez",
   "repository": {
