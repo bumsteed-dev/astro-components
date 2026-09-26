@@ -1,0 +1,40 @@
+{
+  "name": "astro-components",
+  "description": "A curated collection of beautiful, copy-paste components for Astro. Built by and for the community.",
+  "type": "module",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Jesús Cedeño Vélez",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bumsteed-dev/astro-components.git"
+  },
+  "homepage": "https://github.com/bumsteed-dev/astro-components#readme",
+  "bugs": {
+    "url": "https://github.com/bumsteed-dev/astro-components/issues"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.3.5"
+  },
+  "allowScripts": {
+    "esbuild": true
+  },
+  "keywords": [
+    "astro",
+    "astro-components",
+    "components",
+    "ui",
+    "css",
+    "copy-paste",
+    "community"
+  ]
+}
