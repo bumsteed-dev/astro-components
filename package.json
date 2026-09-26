@@ -23,6 +23,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
     "@vercel/analytics": "^2.0.1",
     "astro": "^7.3.5"
   },
@@ -37,5 +38,8 @@
     "css",
     "copy-paste",
     "community"
-  ]
+  ],
+  "devDependencies": {
+    "sass": "^1.105.0"
+  }
 }
